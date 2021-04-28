@@ -1,16 +1,9 @@
 # semester_project
 
-A new Flutter application.
+                                                                       BOOKLETIM APPLICATION
 
-## Getting Started
+THIS SEMESTER PROJECT MADE WITH ABDULLAH AKBIYIK AND HİKMET CAN DOĞANCI for Mobile Programming Lesson at Abdullah Gul University
 
-This project is a starting point for a Flutter application.
+In the project, users can search books and if they want to add them, they can like the books when they like it books are going to add their profile pages.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
